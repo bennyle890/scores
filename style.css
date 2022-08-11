@@ -1,0 +1,23 @@
+.right {
+    position: relative;
+    float: right;
+}
+
+.container {
+    text-align: center;
+    margin-top: 200px;
+    padding: auto; 
+}
+
+.scores {
+    margin-top: 20px; 
+    margin-left: 20px; 
+}
+
+.centered {
+    text-align: center;
+}
+
+.heading {
+    margin-top: 200p
+}
